@@ -1,0 +1,111 @@
+{
+  "name": "Ivan",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Ivan Sailovic",
+  "headerTaglineThree": "Senior Full Stack Developer",
+  "headerTaglineFour": " based in Belgrade, Serbia.",
+  "showCursor": true,
+  "showBlog": true,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/chetanverma16"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/chetanverma7/"
+    },
+    {
+      "id": "3",
+      "title": "Twitter",
+      "link": "https://twitter.com/realchetanverma"
+    },
+    { "id": "4", "title": "Blog", "link": "https://blog.chetanverma.com/" },
+    { "id": "5", "title": "Email", "link": "mailto:hello@chetanverma.com" }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "HomrTradeHub",
+      "description": "Building front end and back end for home e-commerce Web site",
+      "imageSrc": "https://raw.githubusercontent.com/Ivangit199/image-hosting-1/main/Screenshot_1.png",
+      "url": "https://www.realestate.com.au/"
+    },
+    {
+      "id": "2",
+      "title": "High Security Credit Card Management with CreditKarma",
+      "description": "Management Credit store to maintenance high security with Laravel framework",
+      "imageSrc": "https://raw.githubusercontent.com/Ivangit199/image-hosting-1/main/Screenshot_2.png",
+      "url": "https://creditkarma.ca"
+    },
+    {
+      "id": "3",
+      "title": "World Department Social Media Platform",
+      "description": "Build Social Media platform Involving World, Media, Technology and Game Department.",
+      "imageSrc": "https://raw.githubusercontent.com/Ivangit199/image-hosting-1/main/Screenshot_3.png",
+      "url": "https://massivecraft.com"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Art Direction",
+      "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+    },
+    {
+      "id": "2",
+      "title": "Branding",
+      "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+    },
+    {
+      "id": "3",
+      "title": "Web Design",
+      "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+    },
+    {
+      "id": "4",
+      "title": "3D Design",
+      "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+    }
+  ],
+  "aboutpara": "A business-minded, application developer with the drive to create applications that run on web browsers, mobile devices, and other related platforms. Highly motivated and accomplished Bachelor of Computer Science graduate from the University of Niš, where I graduated as the top student of my class. Proven track record of academic excellence and a strong foundation in software engineering and data science. I believe that someone should hire me because I can provide leadership, loyalty, focus and overall, dedication to my position. I am also determined to become the best in my field because I believe the person who hires me deserves an expert developer who is at the pinnacle of his career.\n",
+  "resume": {
+    "tagline": "👋  I'm a senior full stack developer",
+    "description": "I have developed dozens of Web projects with React, Next, Laravel, and WordPress frameworks\nI focus on building perfect and responsive UI and making clean codes",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "March 2022 - Present",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Bullet One, Bullet Two"
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "July 2020 - March 2022",
+        "type": "Full Time",
+        "position": "F",
+        "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
+      }
+    ],
+    "education": {
+      "universityName": "University of Nis",
+      "universityDate": "2014-2018",
+      "universityPara": "Bachelor of Computer Science (BCompSc)"
+    },
+    "languages": ["Javascript", "HTML5", "CSS", "Python", "PHP", "C#", "C++"],
+    "frameworks": [
+      "React",
+      "Typescript",
+      "NodeJs",
+      "Laravel",
+      "WordPress",
+      "Django"
+    ],
+    "others": ["Figma", "AdobeXD", "AWS", "Auto Trading bot"]
+  }
+}
